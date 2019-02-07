@@ -1,7 +1,5 @@
 ming do jing
-<<<<<<< HEAD
 
 asdf
-=======
+
 jing do ming_jing
->>>>>>> ece24c7cc2941eba0ec91a801b1f68a630f599a1
